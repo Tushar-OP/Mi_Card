@@ -1,6 +1,12 @@
 # Mi Card
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
+Mi Card is a personal business card. 
+
+Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. 
+
+Well, now you can get them to download your business card as an app.
+
+And here's how it looks,
 
 <p align="center">
-  <img src="images/Screenshot.jpg" width="50%" height="100%"/>
+  <img src="images/Screenshot.jpg" width="30%" height="60%"/>
 </p>
